@@ -1,0 +1,8 @@
+.todo-list::-webkit-scrollbar {
+    overflow: hidden;
+}
+
+.input-group {
+    margin: 3px auto;
+    width: calc(100% - 45px);
+}
